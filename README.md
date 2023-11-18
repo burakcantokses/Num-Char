@@ -1,7 +1,9 @@
 Question;
 
-![image](https://github.com/burakcantokses/Num-Char/assets/75482610/d3d97a01-3e6d-45f1-982c-ba051682a1be)
+![image](https://github.com/burakcantokses/Num-Char/assets/75482610/54b42b06-489b-454b-818a-525ddfff5222)
+
 
 Result;
 
-![image](https://github.com/burakcantokses/Num-Char/assets/75482610/3651fda1-14ec-4fc8-bccd-c9b15ebb1011)
+![image](https://github.com/burakcantokses/Num-Char/assets/75482610/06ceb1ca-8c5c-4f80-9544-476f165b38e7)
+
